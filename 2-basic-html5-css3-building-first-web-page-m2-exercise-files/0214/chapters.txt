@@ -1,0 +1,9 @@
+<img class="round" src="assets/img/frontis-piece.jpg" alt="" title=“">
+<h3>Continue Reading</h3>
+<ul> <li>Chapters 2 - 3</li> <li>Chapters 4 - 6</li> <li>Chapters 7 - 12</li>
+<li>Chapters 13 - 15</li> <li>Chapters 16 - 21</li> <li>Chapters 22 - 24</li> <li>Chapters 25 - 27</li> <li>Chapters 28 - 30</li> <li>Chapters 31 - 34</li> </ul>
+
+
+&#8212;
+
+&nbsp;

@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+ul, nav{
+    list-style: none;
+}
+
+
+body{
+    font: normal 16px "Arial", sans-serif;
+    color:#555;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+    cursor:pointer;
+    opacity: 0.9;
+}
+
+a:hover{
+    opacity: 1;
+}
+
+.round{
+    border: 6px solid #2196F3;
+    border-radius: 50%;
+}
+
+

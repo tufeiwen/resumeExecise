@@ -1,0 +1,10 @@
+<ul>
+<li>twitter</li>
+<li>facebook</li>
+<li>snapchat</li>
+<li>pinterest</li>
+<li>github</li>
+</ul>
+<p>Read the whole <i>Treasure Island</i> novel on the internet.</p>
+<p>&copy;xxxx Whoever</p>
+<!DOCTYPE html>
